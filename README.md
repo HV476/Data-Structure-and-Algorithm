@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
