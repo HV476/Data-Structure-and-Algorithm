@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0989-add-to-array-form-of-integer](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1572-matrix-diagonal-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
 ## Design
