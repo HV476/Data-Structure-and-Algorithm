@@ -74,4 +74,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
+## Depth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
