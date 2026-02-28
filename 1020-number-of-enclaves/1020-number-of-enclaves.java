@@ -29,14 +29,13 @@ class Solution {
         }
         return ans;
     }
-    public int bfs(int sr , int sc , int[][] grid){
+    public void bfs(int sr , int sc , int[][] grid){
         int[] dr = {-1 , 0 , 1 , 0};
         int[] dc = {0 , 1 , 0 , -1};
 
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{sr , sc});
         grid[sr][sc] = -1;
-        int count = 0;
 
         while(!q.isEmpty()){
             int[] curr = q.poll();
@@ -50,10 +49,8 @@ class Solution {
                 if(nr >= 0 && nc >= 0 && nr < grid.length && nc < grid[0].length && grid[nr][nc] == 1){
                     grid[nr][nc] = -1;
                     q.add(new int[]{nr , nc});
-                    count++;
                 } 
             }
         }
-        return count;
     }
 }
