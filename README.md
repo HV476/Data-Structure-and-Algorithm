@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
 ## Two Pointers
@@ -112,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
