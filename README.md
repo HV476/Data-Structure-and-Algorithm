@@ -82,20 +82,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
+| [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 <!---LeetCode Topics End-->
