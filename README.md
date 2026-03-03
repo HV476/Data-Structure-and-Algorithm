@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -104,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
+| [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
 | [0994-rotting-oranges](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
