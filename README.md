@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [0989-add-to-array-form-of-integer](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
+| [0994-rotting-oranges](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
 | [1254-number-of-closed-islands](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
+| [0994-rotting-oranges](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
@@ -104,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
