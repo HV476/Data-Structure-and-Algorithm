@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1304-find-n-unique-integers-sum-up-to-zero](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1304-find-n-unique-integers-sum-up-to-zero) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1572-matrix-diagonal-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
+| [1765-map-of-highest-peak](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1765-map-of-highest-peak) |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
 ## Design
 |  |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1162-as-far-from-land-as-possible](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
 | [1572-matrix-diagonal-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1572-matrix-diagonal-sum) |
+| [1765-map-of-highest-peak](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1765-map-of-highest-peak) |
 ## Simulation
 |  |
 | ------- |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1020-number-of-enclaves) |
 | [1162-as-far-from-land-as-possible](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
 | [1254-number-of-closed-islands](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1254-number-of-closed-islands) |
+| [1765-map-of-highest-peak](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1765-map-of-highest-peak) |
 | [1971-find-if-path-exists-in-graph](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/2685-count-the-number-of-complete-components) |
 ## Union-Find
