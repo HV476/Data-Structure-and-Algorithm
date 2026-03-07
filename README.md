@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 ## Array
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0191-number-of-1-bits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
