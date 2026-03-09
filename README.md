@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
+| [0070-climbing-stairs](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [1162-as-far-from-land-as-possible](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1162-as-far-from-land-as-possible) |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
