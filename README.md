@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0989-add-to-array-form-of-integer](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0989-add-to-array-form-of-integer) |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0191-number-of-1-bits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
 | [1252-cells-with-odd-values-in-a-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1252-cells-with-odd-values-in-a-matrix) |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 ## Trie
 |  |
 | ------- |
