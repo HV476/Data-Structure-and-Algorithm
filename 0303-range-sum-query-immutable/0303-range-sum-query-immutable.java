@@ -8,7 +8,7 @@ class NumArray {
     }
     
     public int sumRange(int left, int right) {
-        return prefix[right+1] - prefix[left]; 
+        return prefix[right+1] - prefix[left];
     }
 }
 
