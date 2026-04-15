@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
@@ -95,16 +96,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
 |  |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## String
 |  |
