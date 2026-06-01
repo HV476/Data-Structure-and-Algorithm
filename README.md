@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
