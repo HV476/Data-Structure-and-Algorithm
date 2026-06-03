@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0231-power-of-two) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
