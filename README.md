@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
+| [0056-merge-intervals](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
