@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0075-sort-colors) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0152-maximum-product-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0130-surrounded-regions) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
 ## Sliding Window
