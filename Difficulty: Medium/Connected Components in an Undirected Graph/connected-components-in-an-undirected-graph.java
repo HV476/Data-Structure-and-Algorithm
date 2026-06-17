@@ -2,6 +2,7 @@ class Solution {
     public ArrayList<ArrayList<Integer>> getComponents(int V, int[][] edges) {
         // code here
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
+        
         for(int i = 0; i < V; i++){
             adj.add(new ArrayList<>());
         }
@@ -20,7 +21,6 @@ class Solution {
             }
         }
         return res;
-        
     }
     public ArrayList<Integer> bfs(int src , boolean[] isVisited , ArrayList<ArrayList<Integer>> adj){
         Queue<Integer> q = new LinkedList<>();
@@ -31,10 +31,12 @@ class Solution {
         while(!q.isEmpty()){
             int curr = q.poll();
             res1.add(curr);
+            
             for(int i = 0; i < adj.get(curr).size(); i++){
                 int neigh = adj.get(curr).get(i);
                 if(isVisited[neigh] == false){
                     isVisited[neigh] = true;
+                    
                     q.add(neigh);
                 }
             }
@@ -42,3 +44,20 @@ class Solution {
         return res1;
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
