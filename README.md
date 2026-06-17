@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
 | [0832-flipping-an-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0867-transpose-matrix) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [1854-maximum-population-year](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/1854-maximum-population-year) |
 ## Two Pointers
 |  |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 ## Divide and Conquer
 |  |
 | ------- |
