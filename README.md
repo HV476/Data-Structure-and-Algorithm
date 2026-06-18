@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0014-longest-common-prefix) |
+| [0045-jump-game-ii](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0005-longest-palindromic-substring) |
+| [0045-jump-game-ii](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0070-climbing-stairs) |
@@ -249,5 +251,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
