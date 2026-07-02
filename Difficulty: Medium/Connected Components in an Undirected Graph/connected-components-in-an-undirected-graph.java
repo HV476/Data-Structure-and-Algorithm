@@ -2,7 +2,6 @@ class Solution {
     public ArrayList<ArrayList<Integer>> getComponents(int V, int[][] edges) {
         // code here
         ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        
         for(int i = 0; i < V; i++){
             adj.add(new ArrayList<>());
         }
@@ -13,30 +12,29 @@ class Solution {
             adj.get(from).add(to);
             adj.get(to).add(from);
         }
+        
         ArrayList<ArrayList<Integer>> res = new ArrayList<>();
-        boolean[] isVisited = new boolean[V];
+        boolean[] isVis = new boolean[V];
         for(int i = 0; i < V; i++){
-            if(isVisited[i] == false){
-                res.add(bfs(i , isVisited , adj));
+            if(isVis[i] == false){
+                res.add(bfs(i , isVis , adj));
             }
         }
         return res;
     }
-    public ArrayList<Integer> bfs(int src , boolean[] isVisited , ArrayList<ArrayList<Integer>> adj){
+    public ArrayList<Integer> bfs(int src , boolean[] isVis , ArrayList<ArrayList<Integer>> adj){
         Queue<Integer> q = new LinkedList<>();
         q.add(src);
-        isVisited[src] = true;
+        isVis[src] = true;
         ArrayList<Integer> res1 = new ArrayList<>();
         
         while(!q.isEmpty()){
             int curr = q.poll();
             res1.add(curr);
-            
             for(int i = 0; i < adj.get(curr).size(); i++){
                 int neigh = adj.get(curr).get(i);
-                if(isVisited[neigh] == false){
-                    isVisited[neigh] = true;
-                    
+                if(isVis[neigh] == false){
+                    isVis[neigh] = true;
                     q.add(neigh);
                 }
             }
@@ -44,10 +42,6 @@ class Solution {
         return res1;
     }
 }
-
-
-
-
 
 
 
