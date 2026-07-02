@@ -5,7 +5,6 @@ class Solution {
         int fresh = 0;
         Queue<int[]> q = new LinkedList<>();
 
-
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(grid[i][j] == 2){
@@ -19,30 +18,29 @@ class Solution {
         int res = bfs(grid , q , fresh);
         return res;
     }
-    public int bfs( int[][] grid , Queue<int[]> q , int fresh){
+    public int bfs(int[][] grid , Queue<int[]> q , int fresh){
         int[] dr = {-1 , 0 , 1 , 0};
         int[] dc = {0 , 1 , 0 , -1};
-        int countmin = 0;
 
+        int countmin = 0;
         while(!q.isEmpty()){
             int size = q.size();
             boolean rotted = false;
 
-            for(int j = 0; j < size; j++){
+            for(int i = 0; i < size; i++){
                 int[] curr = q.poll();
                 int r = curr[0];
                 int c = curr[1];
 
-                for(int i = 0; i < 4; i++){
-                    int nr = r + dr[i];
-                    int nc = c + dc[i];
+                for(int j = 0; j < 4; j++){
+                    int nr = r + dr[j];
+                    int nc = c + dc[j];
 
                     if(nr >= 0 && nc >= 0 && nr < grid.length && nc < grid[0].length && grid[nr][nc] == 1){
                         grid[nr][nc] = 2;
                         fresh--;
                         q.add(new int[]{nr , nc});
                         rotted = true;
-
                     }
                 }
             }
