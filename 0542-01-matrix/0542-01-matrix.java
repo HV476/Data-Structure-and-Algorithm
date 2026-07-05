@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < m; i++){
             for(int j = 0; j < n; j++){
                 if(mat[i][j] == 0){
-                    q.offer(new int[]{i , j});
+                    q.add(new int[]{i , j});
                 }else{
                     res[i][j] = -1;
                 }
@@ -32,9 +32,9 @@ class Solution {
 
                 if(nr >= 0 && nc >= 0 && nr < mat.length && nc < mat[0].length && res[nr][nc] == -1){
                     res[nr][nc] = res[r][c] + 1;
-                    q.offer(new int[]{nr , nc});
+                    q.add(new int[]{nr , nc});
                 }
-            }
+            } 
         }
     }
 }
