@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0417-pacific-atlantic-water-flow) |
 | [0455-assign-cookies](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0485-max-consecutive-ones) |
 | [0542-01-matrix](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0695-max-area-of-island](https://github.com/HV476/Data-Structure-and-Algorithm/tree/master/0695-max-area-of-island) |
